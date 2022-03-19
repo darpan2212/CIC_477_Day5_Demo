@@ -1,7 +1,7 @@
 #!/bin/bash
 
-var1=10;
-var2=15;
+var1=12;
+var2=13;
 
 if [ $var1 -gt $var2 ]
 then
